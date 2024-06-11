@@ -77,10 +77,10 @@ Tampilan *Dashboard* <br><br>
 
 ### 4. *Setup* *Threshold*
 Masukkan kode pada *resources* yang sudah disediakan dalam file bernama `mqtt_pub.py` dengan *command* `sudo nano mqtt_pub.py`.
-- Konfigurasikan `client.subscribe` dengan topik yang sesuai yaitu (“/kel6/room/temperature”)
+- Konfigurasikan `client.subscribe` dengan topik yang sesuai yaitu ``/kel6/room/temperature``
 - Pada fungsi JSON untuk cek temperatur. Kami mengatur *threshold*-nya di atas 1 celcius, maka lampu akan menyala
-- Tentukan pesan pada fungsi `temperature`, tepatnya di `client.publish` dengan menggunakan (“/kel6/room/led”, “On”)
-- Pada fungsi yang sama juga, tentukan pesan untuk kondisi `else` dengan menggunakan (“/kel6/room/led”, “Off”)
+- Tentukan pesan pada fungsi `temperature`, tepatnya di `client.publish` dengan menggunakan ``/kel6/room/led”, “On”``
+- Pada fungsi yang sama juga, tentukan pesan untuk kondisi `else` dengan menggunakan ``“/kel6/room/led”, “Off”``
 - Pada fungsi `client.connect` masukkan IP *Broker*, PORT, dan waktu *looping*. Konfigurasi kelompok kami: `(“167.172.87.186”, 1883, 60)` <br><br>
 ![image](https://github.com/ilhanahmads/FP-Integrasi-Sistem/assets/127307991/21ac359e-409d-4ed8-89ee-765645273f04)
 
