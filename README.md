@@ -73,7 +73,8 @@ Tampilan *Dashboard* <br><br>
 ![image](https://github.com/ilhanahmads/FP-Integrasi-Sistem/assets/127307991/abf162eb-17f2-41db-be2a-814b830c4aa8)
 
 ### *Testing*
-[Video *Testing*]
+
+https://github.com/ilhanahmads/FP-Integrasi-Sistem/assets/127307991/36094a2b-20a9-4a57-8692-61d59ae20d60
 
 ### 4. *Setup* *Threshold*
 Masukkan kode pada *resources* yang sudah disediakan dalam file bernama `mqtt_pub.py` dengan *command* `sudo nano mqtt_pub.py`.
