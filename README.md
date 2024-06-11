@@ -93,3 +93,10 @@ Jalankan kode pada Raspberry Pi dengan *command* `python mqtt_sub.py`. <br><br>
 ![image](https://github.com/ilhanahmads/FP-Integrasi-Sistem/assets/127307991/f6cf4f88-37c9-4771-bf12-115690ea757f)
 
 
+## *Source*
+Udemy Course: Mastering MQTT Protocol A Beginner's to Advance Level Guide <br>
+https://www.udemy.com/share/105cGi3@elGHE2Eib9t4b-t3rIszQZCSbzMQ--0fDd8iEO6uARTGGDtkRWxYU4PnuLX6o-GdIA==/
+
+## *Video Demo*
+Playlist YouTube <br>
+https://youtube.com/playlist?list=PL2L6zxrOBhAaf6ttu-J_Ijnh1DFsNKPg_&si=cyFijsf6HiyWGdKo
